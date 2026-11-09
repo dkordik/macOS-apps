@@ -3,12 +3,13 @@
 <channel>
 <title>Space Labels</title>
 <item>
-<title>Build 14</title>
-<pubDate>Mon, 09 Nov 2026 14:27:28 -0600</pubDate>
-<sparkle:version>14</sparkle:version>
-<sparkle:shortVersionString>build 14</sparkle:shortVersionString>
+<title>Build 16</title>
+<pubDate>Mon, 09 Nov 2026 14:44:33 -0600</pubDate>
+<sparkle:version>16</sparkle:version>
+<sparkle:shortVersionString>build 16</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-14/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="lqE7H+UL8ZWjqx4OuvtSQlqCdnG5UmLqPcS3z7ed5mhMw9znTFXUPWPuUFs2EhV817kFhNeNlUADiChscQTtBQ==" length="1926569"/>
+<description><![CDATA[<ul><li>Cmd+A, Cmd+C, Cmd+V, Cmd+X, and Cmd+Z now work when editing Space names.</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-16/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="h2pDgamXf1XfI0Igd8VPy19HlbSsRw0YzvnyOXglDbUrLUb4rmYuhPgOnBHJU4zcaJPk/Yc1sfo7Ijbn2X8QBQ==" length="1925016"/>
 </item>
 </channel>
 </rss>
