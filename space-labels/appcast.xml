@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Space Labels</title>
+<item>
+<title>Build 13</title>
+<pubDate>Mon, 09 Nov 2026 14:21:23 -0600</pubDate>
+<sparkle:version>13</sparkle:version>
+<sparkle:shortVersionString>13</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-13/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="/enH2lc2RB4/wmm1e3JDa5rA0PLBbSCIfaouNZyR7fjDPLt6jedzy8DfJKx1GZBxIV+1GscVTpvZEWv1Yu7dAg==" length="1923376"/>
+</item>
+</channel>
+</rss>
