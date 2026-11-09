@@ -3,13 +3,13 @@
 <channel>
 <title>Space Labels</title>
 <item>
-<title>Build 17</title>
-<pubDate>Mon, 09 Nov 2026 14:53:25 -0600</pubDate>
-<sparkle:version>17</sparkle:version>
-<sparkle:shortVersionString>build 17</sparkle:shortVersionString>
+<title>Build 18</title>
+<pubDate>Mon, 09 Nov 2026 16:25:49 -0600</pubDate>
+<sparkle:version>18</sparkle:version>
+<sparkle:shortVersionString>build 18</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<ul><li>Clicking the menu bar now closes the picker if it's already open. Toggling is nicer.</li></ul>]]></description>
-<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-17/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="hp1hcRLSU9BC1iP+NqA3I6FvJPRLZ6qeZ6mvsaUdadAFPnPPU2eood+5v6nNr8OhhWsNP4ZMACelhmyLeZg8DQ==" length="1925400"/>
+<description><![CDATA[<ul><li>Fix Settings modal blocking restart after installing an update</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-18/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="nDZ7z1uOF1uEcbzjyYYGkCEhUUnhhpG+s6UCtuS8KJCYlb2sysjbgYmL8GzM5Y+qnaEkSLf3e6CJ9SRriVLtBQ==" length="1929301"/>
 </item>
 </channel>
 </rss>
