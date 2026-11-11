@@ -11,5 +11,68 @@
 <description><![CDATA[<ul><li>Full-screen apps now appear in the picker with live thumbnails, so you can switch to them like any desktop</li><li>The menu bar shows the app name while a full-screen app is active</li></ul>]]></description>
 <enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-24/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="Uv//+jT9wDmUPkjqP4zMqpIUy5jOrYc4uN0RwMxLItpJNDqgdhi8Qxz78lQzxu4Wk7rqUbmAiWjpjcfwIynXAA==" length="1942136"/>
 </item>
+<item>
+<title>Build 23</title>
+<pubDate>Wed, 11 Nov 2026 12:25:23 -0600</pubDate>
+<sparkle:version>23</sparkle:version>
+<sparkle:shortVersionString>build 23</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Mission Control labels now cover the desktop names in the expanded view on macOS 26</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-23/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="dhgBCqODEls9BJMgs7upuR71VNQ5giBEX37Rxy+Z20lLUhh4BX235rR7w5Ug+rnwK0W854L/86PxdMVkjYWNDg==" length="1711322"/>
+</item>
+<item>
+<title>Build 22</title>
+<pubDate>Wed, 11 Nov 2026 12:17:36 -0600</pubDate>
+<sparkle:version>22</sparkle:version>
+<sparkle:shortVersionString>build 22</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Mission Control labels now line up with their desktops on macOS 26</li><li>Fix Mission Control labels sometimes disappearing until the app restarted</li><li>Updates now install automatically when the app quits, without a prompt</li><li>The picker's quit button now just says "Quit"</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-22/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="OyWr1BJz7W+pxJrSvMNQ1s6AvKkn7hG0nSGO3FIztpkJbpdBJXjMJ74Vbh/QorNYwn2Lq4ZeEC/ocQIrECYYBA==" length="1711519"/>
+</item>
+<item>
+<title>Build 18</title>
+<pubDate>Mon, 09 Nov 2026 16:25:49 -0600</pubDate>
+<sparkle:version>18</sparkle:version>
+<sparkle:shortVersionString>build 18</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Fix Settings modal blocking restart after installing an update</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-18/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="nDZ7z1uOF1uEcbzjyYYGkCEhUUnhhpG+s6UCtuS8KJCYlb2sysjbgYmL8GzM5Y+qnaEkSLf3e6CJ9SRriVLtBQ==" length="1929301"/>
+</item>
+<item>
+<title>Build 17</title>
+<pubDate>Mon, 09 Nov 2026 14:53:25 -0600</pubDate>
+<sparkle:version>17</sparkle:version>
+<sparkle:shortVersionString>build 17</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Clicking the menu bar now closes the picker if it's already open. Toggling is nicer.</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-17/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="hp1hcRLSU9BC1iP+NqA3I6FvJPRLZ6qeZ6mvsaUdadAFPnPPU2eood+5v6nNr8OhhWsNP4ZMACelhmyLeZg8DQ==" length="1925400"/>
+</item>
+<item>
+<title>Build 16</title>
+<pubDate>Mon, 09 Nov 2026 14:44:33 -0600</pubDate>
+<sparkle:version>16</sparkle:version>
+<sparkle:shortVersionString>build 16</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Cmd+A, Cmd+C, Cmd+V, Cmd+X, and Cmd+Z now work when editing Space names.</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-16/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="h2pDgamXf1XfI0Igd8VPy19HlbSsRw0YzvnyOXglDbUrLUb4rmYuhPgOnBHJU4zcaJPk/Yc1sfo7Ijbn2X8QBQ==" length="1925016"/>
+</item>
+<item>
+<title>Build 14</title>
+<pubDate>Mon, 09 Nov 2026 14:27:28 -0600</pubDate>
+<sparkle:version>14</sparkle:version>
+<sparkle:shortVersionString>build 14</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Update messages now show the build number</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-14/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="lqE7H+UL8ZWjqx4OuvtSQlqCdnG5UmLqPcS3z7ed5mhMw9znTFXUPWPuUFs2EhV817kFhNeNlUADiChscQTtBQ==" length="1926569"/>
+</item>
+<item>
+<title>Build 13</title>
+<pubDate>Mon, 09 Nov 2026 14:21:23 -0600</pubDate>
+<sparkle:version>13</sparkle:version>
+<sparkle:shortVersionString>13</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Space Labels can now update itself</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-13/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="/enH2lc2RB4/wmm1e3JDa5rA0PLBbSCIfaouNZyR7fjDPLt6jedzy8DfJKx1GZBxIV+1GscVTpvZEWv1Yu7dAg==" length="1923376"/>
+</item>
 </channel>
 </rss>
