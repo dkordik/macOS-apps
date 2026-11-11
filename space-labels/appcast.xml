@@ -3,13 +3,13 @@
 <channel>
 <title>Space Labels</title>
 <item>
-<title>Build 18</title>
-<pubDate>Mon, 09 Nov 2026 16:25:49 -0600</pubDate>
-<sparkle:version>18</sparkle:version>
-<sparkle:shortVersionString>build 18</sparkle:shortVersionString>
+<title>Build 22</title>
+<pubDate>Wed, 11 Nov 2026 12:17:36 -0600</pubDate>
+<sparkle:version>22</sparkle:version>
+<sparkle:shortVersionString>build 22</sparkle:shortVersionString>
 <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<description><![CDATA[<ul><li>Fix Settings modal blocking restart after installing an update</li></ul>]]></description>
-<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-18/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="nDZ7z1uOF1uEcbzjyYYGkCEhUUnhhpG+s6UCtuS8KJCYlb2sysjbgYmL8GzM5Y+qnaEkSLf3e6CJ9SRriVLtBQ==" length="1929301"/>
+<description><![CDATA[<ul><li>Mission Control labels now line up with their desktops on macOS 26</li><li>Fix Mission Control labels sometimes disappearing until the app restarted</li><li>Updates now install automatically when the app quits, without a prompt</li><li>The picker's quit button now just says "Quit"</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-22/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="OyWr1BJz7W+pxJrSvMNQ1s6AvKkn7hG0nSGO3FIztpkJbpdBJXjMJ74Vbh/QorNYwn2Lq4ZeEC/ocQIrECYYBA==" length="1711519"/>
 </item>
 </channel>
 </rss>
