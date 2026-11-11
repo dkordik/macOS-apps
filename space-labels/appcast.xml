@@ -3,6 +3,15 @@
 <channel>
 <title>Space Labels</title>
 <item>
+<title>Build 25</title>
+<pubDate>Wed, 11 Nov 2026 15:54:51 -0600</pubDate>
+<sparkle:version>25</sparkle:version>
+<sparkle:shortVersionString>build 25</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Restart to Update button in Settings</li><li>Release notes in Settings</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/space-labels-build-25/Space-Labels.dmg" type="application/octet-stream" sparkle:edSignature="xdiCyfycZkHHwa1y358+MHetvV+LoU8n66aLmTHlDlWDmeJYFyeiiymL7NvCeuc/9VNDojFegnYXqWjfnkT9CA==" length="1991450"/>
+</item>
+<item>
 <title>Build 24</title>
 <pubDate>Wed, 11 Nov 2026 14:51:12 -0600</pubDate>
 <sparkle:version>24</sparkle:version>
