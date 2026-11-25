@@ -3,6 +3,15 @@
 <channel>
 <title>Native Resolution</title>
 <item>
+<title>Build 5</title>
+<pubDate>Wed, 25 Nov 2026 16:15:54 -0600</pubDate>
+<sparkle:version>5</sparkle:version>
+<sparkle:shortVersionString>build 5</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Simpler About window</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/native-resolution-build-5/Native-Resolution.dmg" type="application/octet-stream" sparkle:edSignature="yYt3mcdh3FSFQVvuQI3XjE15eIiRILrDqLIkjDC5vX2BG8bSOmLHTZDtNlR0KfuHs2gUJ589kLoeaO6nSrLxBA==" length="1939328"/>
+</item>
+<item>
 <title>Build 3</title>
 <pubDate>Wed, 25 Nov 2026 16:02:59 -0600</pubDate>
 <sparkle:version>3</sparkle:version>
