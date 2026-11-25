@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<channel>
+<title>Native Resolution</title>
+<item>
+<title>Build 2</title>
+<pubDate>Wed, 25 Nov 2026 15:47:31 -0600</pubDate>
+<sparkle:version>2</sparkle:version>
+<sparkle:shortVersionString>build 2</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description><![CDATA[<ul><li>Automatic updates: new builds install quietly when you quit the app</li><li>Release notes and update controls in About</li></ul>]]></description>
+<enclosure url="https://github.com/dkordik/macOS-apps/releases/download/native-resolution-build-2/Native-Resolution.dmg" type="application/octet-stream" sparkle:edSignature="OSwlr3ccgwPYSQOKJFEpbotuPxnDH18Ncs9GzOrnDeEcP2OMqsn5vjzCvPIJxqFuAnv7g1yEAkkq6dx2Jvi+BQ==" length="1937856"/>
+</item>
+
+</channel>
+</rss>
